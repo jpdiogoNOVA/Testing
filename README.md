@@ -2,4 +2,6 @@
 
 ## Branching
 
-Two branches: `branch1` `branch2`
+Two branches: `branch1` `branch3`
+
+Hey
